@@ -13,5 +13,5 @@
 
 ### Contact:
 
-Prof. Abderazek Ben Abdallah: benab@u-aizu.ac.jp \\
+Prof. Abderazek Ben Abdallah: benab@u-aizu.ac.jp \n
 Prof. Khanh N. Dang: khanh@u-aizu.ac.jp
